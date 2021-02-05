@@ -1,0 +1,17 @@
+[
+  {
+    "InvoiceId": 1,
+    "PaSId": 1,
+    "Amount": 1
+  },
+  {
+    "InvoiceId": 2,
+    "PaSId": 23,
+    "Amount": 27
+  },
+  {
+    "InvoiceId": 3,
+    "PaSId": 11,
+    "Amount": 1
+  }
+]

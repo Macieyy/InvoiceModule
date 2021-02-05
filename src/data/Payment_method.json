@@ -1,0 +1,22 @@
+[
+  {
+    "id" : 1,
+    "name": "gotowka"
+  },
+  {
+    "id" : 2,
+    "name": "przelew tradycyjny"
+  },
+  {
+    "id" : 3,
+    "name": "szybki przelew"
+  },
+  {
+    "id" : 4,
+    "name": "PayPal"
+  },
+  {
+    "id" : 5,
+    "name": "Karta platnicza"
+  }
+]

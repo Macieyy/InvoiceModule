@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "IssuerName": "Shussen",
+    "ContractorName": "New Fruits",
+    "invoiceNumber": 123,
+    "status": true,
+    "creationDate": "2014-01-01",
+    "paymentDate": "2014-01-01",
+    "description": "oplata za media",
+    "paymentMethodId": 1,
+    "netWorth" : 243.23
+  },
+  {
+    "id": 2,
+    "IssuerName": "Shussen",
+    "ContractorName": "Job Zone",
+    "invoiceNumber": 12345,
+    "status": true,
+    "creationDate": "2014-01-01",
+    "paymentDate": "2014-01-01",
+    "description": "zakup towarow",
+    "paymentMethodId": 1,
+    "netWorth" : 25432
+  },
+  {
+    "id": 3,
+    "IssuerName": "Shussen",
+    "ContractorName": "New Fruits",
+    "invoiceNumber": 1234,
+    "status": false,
+    "creationDate": "2014-01-01",
+    "paymentDate": "",
+    "description": "oplata za terminal",
+    "paymentMethodId": 1,
+    "netWorth" : 321.23
+  }
+]

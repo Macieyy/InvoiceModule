@@ -1,0 +1,48 @@
+{
+  "invoiceId": 1,
+  "contractor": {
+    "_id": "600eae7a113816002231187f",
+    "nazwa_kontrachenta": "Trojanowski-Adamus Corp.",
+    "adres": "Mońki ul. Matusiak 954",
+    "nip": "3698995597",
+    "branza": "e-commerce",
+    "email": "leonardjanas78@yahoo.com",
+    "numer_telefonu": 747554344
+  },
+  "issuer": {
+    "issuerId": 1,
+    "nip": "7830905478",
+    "email": "shussen2@seattleethnicfoods.com",
+    "phoneNumber": 575553905,
+    "adress": "ul. Polna 27, 35-010 Rzeszów"
+  },
+  "invoiceNumber": 123,
+  "creationDate": "2014-01-01T00:00:00",
+  "paymentDate": "2014-01-01T00:00:00",
+  "paymentStatus": true,
+  "description": "opłata za Montaż",
+  "paymentMethod": { "paymentMethodId": 1, "paymentMethodName": "Gotówka" },
+  "invoiceItems": [
+    {
+      "invoiceItemId": 1,
+      "invoiceId": 1,
+      "productOrServiceId": 14,
+      "productOrService": null,
+      "amount": 1
+    },
+    {
+      "invoiceItemId": 2,
+      "invoiceId": 1,
+      "productOrServiceId": 13,
+      "productOrService": null,
+      "amount": 1
+    },
+    {
+      "invoiceItemId": 3,
+      "invoiceId": 1,
+      "productOrServiceId": 3,
+      "productOrService": null,
+      "amount": 1
+    }
+  ]
+}

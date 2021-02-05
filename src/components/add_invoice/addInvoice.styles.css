@@ -1,0 +1,16 @@
+.add_invoice_container{
+    padding-left: 5em;
+    padding-top: 1em;
+}
+.invoice_forms{
+    max-width: 50em;
+}
+.css-2b097c-container{
+    min-width: 15em;
+}
+input[type=checkbox] {
+    transform: scale(2);
+    -ms-transform: scale(2);
+    -webkit-transform: scale(2);
+    padding: 10px;
+}

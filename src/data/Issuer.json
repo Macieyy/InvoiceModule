@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Shussen",
+    "adress": "ul. Polna 27, 35-010 Rzesz�w",
+    "NIP": "7830905478",
+    "email": "shussen2@seattleethnicfoods.com",
+    "phoneNumber": 575553905
+  },
+  {
+    "id": 2,
+    "name": "New Fruits",
+    "adress": "ul. S�oneczna 4a, 35-010 Rzesz�w",
+    "NIP": "4524096382",
+    "email": "NewFruitsPL@gmail.com",
+    "phoneNumber": 665555372
+  },
+  {
+    "id": 3,
+    "name": "Job Zone",
+    "Adress": "ul. Brzozowa 13, 35-010 Rzesz�w",
+    "NIP": "3568517024",
+    "email": "JobZone@o2.pl",
+    "phoneNumber": 575557338
+  }
+]

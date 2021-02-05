@@ -1,0 +1,156 @@
+[
+  {
+    "ID": "1",
+    "Typ": "Produkt",
+    "Nazwa": "Laptop A-340, 6 rdzeni, 16GB RAM",
+    "Kategoria": "Komputer",
+    "Producent": "Asus",
+    "Cena_netto": "2500",
+    "Procent_vat": "23",
+    "Cena_brutto": 3075,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "2",
+    "Typ": "Produkt",
+    "Nazwa": "Laptop Optiplex 25",
+    "Kategoria": "Laptop",
+    "Producent": "Dell",
+    "Cena_netto": "1780",
+    "Procent_vat": "23",
+    "Cena_brutto": 2189.4,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "3",
+    "Typ": "Produkt",
+    "Nazwa": "Komputer mid-tower D-03",
+    "Kategoria": "Komputer",
+    "Producent": "Gigabyte",
+    "Cena_netto": "2900",
+    "Procent_vat": "23",
+    "Cena_brutto": 3567,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "4",
+    "Typ": "Produkt",
+    "Nazwa": "Komputer AMD 8 rdzeni, GeForce GTX",
+    "Kategoria": "Komputer",
+    "Producent": "Gigabyte",
+    "Cena_netto": "3800",
+    "Procent_vat": "23",
+    "Cena_brutto": 4674,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "5",
+    "Typ": "Produkt",
+    "Nazwa": "Samsung 24 cale",
+    "Kategoria": "Monitor",
+    "Producent": "Samsung",
+    "Cena_netto": "450",
+    "Procent_vat": "23",
+    "Cena_brutto": 553.5,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "6",
+    "Typ": "Produkt",
+    "Nazwa": "Monitor 27 cali C-270",
+    "Kategoria": "Monitor",
+    "Producent": "Samsung",
+    "Cena_netto": "499",
+    "Procent_vat": "23",
+    "Cena_brutto": 613.77,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "7",
+    "Typ": "Produkt",
+    "Nazwa": "test",
+    "Kategoria": "Rolnictwo",
+    "Producent": "Samsung",
+    "Cena_netto": "890888",
+    "Procent_vat": "69",
+    "Cena_brutto": 1505600.72,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "8",
+    "Typ": "Produkt",
+    "Nazwa": "Huawei Mate 20 Pro",
+    "Kategoria": "Smartphone",
+    "Producent": "Huawei",
+    "Cena_netto": "750",
+    "Procent_vat": "23",
+    "Cena_brutto": 922.5,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "13",
+    "Typ": "Us\u0142uga",
+    "Nazwa": "Monta\u017c drzwii",
+    "Kategoria": "Meble",
+    "Producent": "Matejko",
+    "Cena_netto": "1000",
+    "Procent_vat": "8",
+    "Cena_brutto": 1080,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "14",
+    "Typ": "Us\u0142uga",
+    "Nazwa": "Monta\u017c mebli",
+    "Kategoria": "Meble",
+    "Producent": "Matejko",
+    "Cena_netto": "50",
+    "Procent_vat": "8",
+    "Cena_brutto": 54,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "16",
+    "Typ": "Us\u0142uga",
+    "Nazwa": "Koszenie trawy",
+    "Kategoria": "Kosmetyka",
+    "Producent": "Rasputin",
+    "Cena_netto": "40",
+    "Procent_vat": "5",
+    "Cena_brutto": 42,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "138",
+    "Typ": "Us\u0142uga",
+    "Nazwa": "TSK",
+    "Kategoria": null,
+    "Producent": null,
+    "Cena_netto": "500",
+    "Procent_vat": "50",
+    "Cena_brutto": 750,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "146",
+    "Typ": "Produkt",
+    "Nazwa": "\u0142y\u017cka",
+    "Kategoria": "Rolnictwo",
+    "Producent": "Matejko",
+    "Cena_netto": "1333",
+    "Procent_vat": "12",
+    "Cena_brutto": 1492.96,
+    "Jednostka_miary": "szt."
+  },
+  {
+    "ID": "199",
+    "Typ": "Produkt",
+    "Nazwa": "Mysz komputerowa",
+    "Kategoria": "Komputer",
+    "Producent": "Dell",
+    "Cena_netto": "25",
+    "Procent_vat": "7",
+    "Cena_brutto": 26.75,
+    "Jednostka_miary": "szt."
+  }
+]
